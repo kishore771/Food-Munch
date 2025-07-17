@@ -5,7 +5,7 @@ import './Footer.css'; // Assuming you have a CSS file for styling
 const Footer = () => (
   <footer className="footer-section pt-5 pb-5 text-center">
     <img
-      src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-munch-logo-light.png"
+      src="https://i.postimg.cc/fbSr9bmC/logo-png.png"
       className="food-munch-logo"
       alt="footer logo"
     />

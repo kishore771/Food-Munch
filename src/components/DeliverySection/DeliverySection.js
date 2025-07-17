@@ -12,7 +12,7 @@ const DeliverySection = () => {
         <div className="row">
           <div className="col-12 col-md-5 text-center order-1 order-md-2">
             <img
-              src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/delivery-payment-section-img.png"
+              src="https://i.postimg.cc/4x1r8ptL/11241416-4676729.jpg"
               className="delivery-and-payment-section-img"
               alt="Delivery"
             />

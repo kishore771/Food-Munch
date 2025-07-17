@@ -5,9 +5,9 @@ import './Navbar.css'; // Optional for custom styling
 const Navbar = () => (
   <nav className="navbar navbar-expand-lg navbar-light bg-white fixed-top">
     <div className="container">
-      <a className="navbar-brand" href="#">
+      <a className="navbar-brand" href="/">
         <img
-          src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-munch-img.png"
+          src="https://i.postimg.cc/Zn5nwXTf/logo-transparent-png.png"
           alt="logo"
           className="food-munch-logo"
         />

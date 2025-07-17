@@ -17,7 +17,7 @@ const ThankingSection = () => {
             {showGift && (
               <div className="mb-3">
                 <img
-                  src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/gift-voucher-img.png"
+                  src="https://i.postimg.cc/TwTjtWV9/voucher.jpg"
                   className="thanking-customers-section-img"
                   alt="Gift Voucher"
                 />
@@ -34,7 +34,7 @@ const ThankingSection = () => {
 
           <div className="col-12 col-md-5 d-none d-md-block">
             <img
-              src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/thanking-customers-section-img.png"
+              src="https://i.postimg.cc/13PzncsJ/11667105.jpg"
               className="thanking-customers-section-img"
               alt="Thank You"
             />

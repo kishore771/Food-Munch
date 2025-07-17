@@ -4,35 +4,35 @@ import 'bootstrap/dist/css/bootstrap.min.css'; // Import Bootstrap CSS for styli
 
 const menuItems = [
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-ginger-fried-img.png",
+    img: "https://i.postimg.cc/wx4JNBBS/crilled-chicken-bread-piece-greens-pepper-sauce-spices-side-view.jpg",
     title: "Non-Veg Starters"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-veg-starters-img.png",
+    img: "https://i.postimg.cc/pL3M5KNp/veg-starters.webp",
     title: "Veg Starters"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-soup-img.png",
+    img: "https://i.postimg.cc/sDBW4RQ1/close-up-wholesome-delicious-christmas-meal.jpg",
     title: "Soups"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-grilled-seafood-img.png",
+    img: "https://i.postimg.cc/qvDMbNPT/sea-food.jpg",
     title: "Fish & Sea food"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-hyderabadi-biryani-img.png",
+    img: "https://i.postimg.cc/RCps04x0/main-course.jpg",
     title: "Main Course"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-mushroom-noodles-img.png",
+    img: "https://i.postimg.cc/4dL5nbM0/noodles.jpg",
     title: "Noodles"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-gluten-img.png",
+    img: "https://i.postimg.cc/Wp0GBVpK/closeup-shot-bowl-delicious-vegan-salad.jpg",
     title: "Salads"
   },
   {
-    img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/em-coffee-bourbon-img.png",
+    img: "https://i.postimg.cc/tJnhJ0F1/desserts.jpg",
     title: "Desserts"
   }
 ];

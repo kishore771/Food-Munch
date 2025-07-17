@@ -5,17 +5,17 @@ import './WhyChooseUs.css'; // Assuming you have a CSS file for styling
 const WhyChooseUs = () => {
   const cards = [
     {
-      img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/food-serve.png",
+      img: "https://i.postimg.cc/nznNb2b9/food-tray-9425750.png",
       title: "Food Service",
       desc: "Experience fine dining at the comfort of your home. All our orders are carefully packed and arranged to give you the nothing less than perfect.",
     },
     {
-      img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/fruits-img.png",
+      img: "https://i.postimg.cc/ZK6gRXbv/fruits-424224.png",
       title: "Fresh Food",
       desc: "The Fresh Food group provides fresh-cut fruits and vegetables directly picked from our partner farms and farm houses.",
     },
     {
-      img: "https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/offers-img.png",
+      img: "https://i.postimg.cc/05hRrp7F/best-offer-8465999.png",
       title: "Best Offers",
       desc: "Food Coupons & Offers up to 50% OFF and Exclusive Promo Codes on All Online Food Orders.",
     },

@@ -14,7 +14,7 @@ const HealthyFoodSection = () => {
         <div className="row">
           <div className="col-12 col-md-5 text-center">
             <img
-              src="https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/healthy-food-plate-img.png"
+              src="https://i.postimg.cc/nMfh1q7V/4547264-4045.jpg"
               className="healthy-food-section-img"
               alt="Healthy food"
             />
