@@ -16,4 +16,53 @@
    
 }
 
+@media screen and (max-width: 768px) {
+    .navbar-items {
+        display: none;
+        flex-direction: column;
+        align-items: center;
+        background-color: white;
+        width: 100%;
+        padding: 20px 0;
+        position: absolute;
+        top: 100px; /* below logo */
+        left: 0;
+        z-index: 2;
+    }
+
+    .navbar-items.active {
+        display: flex;
+    }
+
+    .food-munch-logo{
+        width: 220px;
+        height: 80px;
+    }
+    .navbar-toggler {
+        display: block;
+        padding: 10px;
+        align-items: center;
+        background-color: transparent;
+        border: 2px;
+        border-width: 0px;
+        border-style: none;
+        font-size: 15px;
+        color: #000;
+        cursor: pointer;
+    }
+
+    .navbar-toggler.hover{
+        border: 0px;
+        border-width: 2px;
+        border-style: none;
+    }
+
+    .navbar-toggler.active{
+        border: 0px;
+        border-width: 2px;
+        border-style: none;
+    }
+}
+
+
 
